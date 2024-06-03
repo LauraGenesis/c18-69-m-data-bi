@@ -31,7 +31,7 @@
 <p>Estas fueron otras de las herramientas utilizadas tanto para las reuniones como para la construcción del dashboard:</p>
 <div style="display: flex; align-items: center;">
   <img src="https://assets-global.website-files.com/621c8d7ad9e04933c4e51ffb/65eba5ffa14998827c92cc01_slack-octothorpe.png" style="width: 100px; margin-right: 20px;">
-  <img src="https://computacioninmaculada5.wordpress.com/wp-content/uploads/2017/11/microsoft-powerpoint-vector-logo.png" style="width: 100px; margin-right: 20px;">
+  <img src="https://1000marcas.net/wp-content/uploads/2021/02/Microsoft-PowerPoint-Logo.png" style="width: 100px; margin-right: 20px;">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKwaAMvu6-div8rZ7uLlJMrHcbAuDV_kCAcUuH5NmipHO7ZyN8f3_gKVkjO4FxZDznraw&usqp=CAU" alt="Adobe Color Logo" style="width: 100px; margin-right: 20px;">
   <img src="https://thetoolbox.es/wp-content/uploads/2022/08/44788741.png" alt="Flaticon Logo" style="width: 100px; margin-right: 20px;">
 </div>

@@ -18,7 +18,7 @@
 <p>Para la construcción del dashboard se utilizaron las siguientes herramientas tecnológicas:</p>
 <div style="display: flex; align-items: center;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" style="width: 100px; height: 100px; margin-right: 20px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="Pandas Logo" style="width: 100px; height: 100px; margin-right: 20px;">
+  <img src="https://seeklogo.com/images/P/pandas-icon-logo-BE10401BF1-seeklogo.com.png" alt="Pandas Logo" style="width: 100px; height: 100px; margin-right: 20px;">
   <img src="https://w7.pngwing.com/pngs/252/727/png-transparent-power-bi-business-intelligence-microsoft-analytics-microsoft-text-rectangle-logo-thumbnail.png" alt="Power BI Logo" style="width: 100px; height: 100px;">
 </div>
 <ul>

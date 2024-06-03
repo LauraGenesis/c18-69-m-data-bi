@@ -41,7 +41,7 @@
     </tr>
     <tr>
       <td>Ariana Maldonado</td>
-      <td>Analista de Datos también</td>
+      <td>Analista de Datos</td>
     </tr>
   </tbody>
 </table>

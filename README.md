@@ -1,4 +1,4 @@
-# Dashboard Incidencia de Dengue en América Latina
+# Dashboard de Análisis de Dengue en América Latina
 
 ## Introducción
 <p>El dengue es una enfermedad viral transmitida por mosquitos que afecta a millones de personas en todo el mundo, especialmente en las regiones tropicales y subtropicales. En América Latina, representa un problema de salud pública persistente. Este proyecto tiene como objetivo crear un tablero interactivo para visualizar los casos de dengue, permitiendo identificar tendencias y patrones que faciliten la toma de decisiones y la planificación de estrategias de salud pública. Así, se busca ofrecer una herramienta valiosa para el análisis y monitoreo de la propagación del dengue en la región.

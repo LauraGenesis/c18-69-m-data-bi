@@ -43,26 +43,26 @@
 </ul>
 
 ## Evolución Semanal del Proyecto
-<h2>SEMANA 0:</h2>
+<h3>Semana 0:</h2>
 <ul>
   <li>Reunión Inicial para establecer objetivos y roles.</li>
   <li>Definición de la temática del proyecto y alcance inicial.</li>
 </ul>
 
-<h2>SEMANA 1:</h2>
+<h3>Semana 1:</h2>
 <ul>
   <li>Búsqueda de base de datos relevante para el proyecto.</li>
   <li>Limpieza de datos en Python (EDA) y creación de tablas para análisis.</li>
 </ul>
 
-<h2>SEMANA 2:</h2>
+<h3>Semana 2:</h2>
 <ul>
   <li>Definición del objetivo general del proyecto.</li>
   <li>Identificación de tipos de datos y claves para el análisis.</li>
   <li>Elaboración de un mockup para visualizar la estructura del proyecto.</li>
 </ul>
 
-<h2>SEMANA 3:</h2>
+<h3>Semana 3:</h2>
 <ul>
   <li>Importación de las tablas limpias a Power BI para su manipulación.</li>
   <li>Creación del Modelo Relacional para establecer relaciones entre los datos.</li>
@@ -70,7 +70,7 @@
   <li>Creación del dashboard interactivo para visualización de datos.</li>
 </ul>
 
-<h2>SEMANA 4:</h2>
+<h3>Semana 4:</h2>
 <ul>
   <li>Preparación y entrega de la presentación final del proyecto.</li>
   <li>Creación del informe detallado del proceso y resultados obtenidos.</li>

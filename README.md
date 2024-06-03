@@ -17,7 +17,7 @@
 ## Herramientas utilizadas
 <p>Para la construcción del dashboard se utilizaron las siguientes herramientas tecnológicas:</p>
 <div style="display: flex; align-items: center;">
-  <img src="https://w7.pngwing.com/pngs/677/842/png-transparent-python-hd-logo-thumbnail.png" style="width: 100px; margin-right: 20px;">
+  <img src="https://www.svgrepo.com/show/376344/python.svg" style="width: 100px; margin-right: 20px;">
   <img src="https://w7.pngwing.com/pngs/252/727/png-transparent-power-bi-business-intelligence-microsoft-analytics-microsoft-text-rectangle-logo-thumbnail.png" alt="Power BI Logo" style="width: 100px;">
 </div>
 <ul>

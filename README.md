@@ -8,7 +8,7 @@
 <p>En el desarrollo del presente trabajo se analizarán los casos de dengue en los países de América Latina durante un período de diez años, estudiando tendencias y patrones de incidencia de esta enfermedad. </p>
 
 ## Objetivo General
-<p>Analizar y evaluar los datos disponibles sobre los casos de dengue en los países de América Latina desde 2014 hasta 2024 utilizando Power BI, comparando la incidencia, mortalidad y regiones afectadas. El fin es identificar patrones y factores asociados que permitan mejorar las estrategias de prevención y control del dengue en la región.</p>
+<p>El objetivo de este análisis es evaluar los datos disponibles relacionados con el dengue en los países de América Latina desde 2014 hasta 2024 utilizando la herramienta Power BI. En este análisis, se compararán no solo la incidencia y la mortalidad, sino también los casos graves por regiones y países afectados, entre otros factores relevantes. El propósito es identificar patrones y factores asociados que puedan contribuir a mejorar las estrategias de prevención y control del dengue en toda la región.</p>
 
 ## Fuente de Datos
 <p>La fuente de datos se obtuvo de la plataforma de Información en Salud para las Américas (PLISA), gestionada por la Organización Panamericana de la Salud (OPS). Pueden acceder a la base de datos en el siguiente enlace:

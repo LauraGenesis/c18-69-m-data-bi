@@ -18,6 +18,7 @@
 <p>Para la construcción del dashboard se utilizaron las siguientes herramientas tecnológicas:</p>
 <div style="display: flex; align-items: center;">
   <img src="https://www.svgrepo.com/show/376344/python.svg" style="width: 100px; margin-right: 20px;">
+  <img src="https://www.svgrepo.com/show/376344/python.svg" alt="Pandas Logo" style="width: 100px; margin-right: 20px;">
   <img src="https://w7.pngwing.com/pngs/252/727/png-transparent-power-bi-business-intelligence-microsoft-analytics-microsoft-text-rectangle-logo-thumbnail.png" alt="Power BI Logo" style="width: 100px;">
 </div>
 <ul>
@@ -25,6 +26,7 @@
   <li><strong>Pandas</strong>: Una biblioteca de Python utilizada para la manipulación eficiente de los datos, facilitando su estructuración y filtrado.</li>
   <li><strong>PowerBI</strong>: Una herramienta de visualización de datos utilizada para la creación de gráficos interactivos y la generación del dashboard final, permitiendo una visualización dinámica y detallada de los datos analizados.</li>
 </ul>
+
       
 ## Integrantes del Equipo
 <table>

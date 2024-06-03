@@ -14,10 +14,10 @@
 <p>La fuente de datos se obtuvo de la plataforma de Información en Salud para las Américas (PLISA), gestionada por la Organización Panamericana de la Salud (OPS). Pueden acceder a la base de datos en el siguiente enlace:
 <a href="https://www3.paho.org/data/index.php/es/temas/indicadores-dengue/dengue-nacional/9-dengue-pais-ano.html">Enlace a la Base de Datos</a></p>
 
-## Herramientas Utilizadas
+## Herramientas Tecnológicas utilizadas
 <p>Para la construcción del dashboard se utilizaron las siguientes herramientas tecnológicas:</p>
 <div style="display: flex; align-items: center;">
-  <img src="https://www.svgrepo.com/show/376344/python.svg" style="width: 100px; margin-right: 20px;">
+  <img src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=800%2C800&ssl=1" style="width: 100px; margin-right: 20px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="Pandas Logo" style="width: 100px; margin-right: 20px;">
   <img src="https://w7.pngwing.com/pngs/252/727/png-transparent-power-bi-business-intelligence-microsoft-analytics-microsoft-text-rectangle-logo-thumbnail.png" alt="Power BI Logo" style="width: 100px;">
 </div>
@@ -27,7 +27,21 @@
   <li><strong>PowerBI</strong>: Una herramienta de visualización de datos utilizada para la creación de gráficos interactivos y la generación del dashboard final, permitiendo una visualización dinámica y detallada de los datos analizados.</li>
 </ul>
 
-      
+## Otras Herramientas
+<p>Estas fueron otras de las herramientas utilizadas tanto para las reuniones como para la construcción del dashboard:</p>
+<div style="display: flex; align-items: center;">
+  <img src="https://assets-global.website-files.com/621c8d7ad9e04933c4e51ffb/65eba5ffa14998827c92cc01_slack-octothorpe.png" style="width: 100px; margin-right: 20px;">
+  <img src="https://computacioninmaculada5.wordpress.com/wp-content/uploads/2017/11/microsoft-powerpoint-vector-logo.png" style="width: 100px; margin-right: 20px;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKwaAMvu6-div8rZ7uLlJMrHcbAuDV_kCAcUuH5NmipHO7ZyN8f3_gKVkjO4FxZDznraw&usqp=CAU" alt="Adobe Color Logo" style="width: 100px; margin-right: 20px;">
+  <img src="https://thetoolbox.es/wp-content/uploads/2022/08/44788741.png" alt="Flaticon Logo" style="width: 100px; margin-right: 20px;">
+</div>
+<ul>
+  <li><strong>Slack</strong>: Utilizado para las reuniones diarias del equipo.</li>
+  <li><strong>PowerPoint</strong>: Empleado para crear el fondo de las solapas de Power BI.</li>
+  <li><strong>Adobe Color</strong>: Utilizado para elegir la paleta de colores.</li>
+  <li><strong>Flaticon</strong>: Utilizado para obtener iconos y crear botones de navegación de páginas en Power BI.</li>
+</ul>
+
 ## Integrantes del Equipo
 <table>
   <thead>

@@ -76,10 +76,28 @@
   <li>Creación del informe detallado del proceso y resultados obtenidos.</li>
 </ul>
 
-
-
-
 ## Integrantes del Equipo
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+  /* Estilo para los enlaces */
+  a {
+    color: inherit; /* Mantiene el color del texto original */
+    text-decoration: none; /* Quita la subrayado de los enlaces */
+  }
+
+  /* Estilo para los enlaces cuando se les da clic */
+  a:hover {
+    color: inherit; /* Mantiene el color del texto original */
+  }
+</style>
+</head>
+<body>
+
+<h2>Integrantes del Equipo</h2>
 <table>
   <thead>
     <tr>
@@ -105,5 +123,7 @@
   </tbody>
 </table>
 
+</body>
+</html>
 
 

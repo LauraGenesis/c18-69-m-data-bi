@@ -45,7 +45,7 @@
 ## Evolución Semanal del Proyecto
 <h3>Semana 0:</h2>
 <ul>
-  <li>Reunión Inicial para establecer objetivos y roles.</li>
+  <li>Reunión Inicial para que el equipo se conozca y se definan los roles.</li>
   <li>Definición de la temática del proyecto y alcance inicial.</li>
 </ul>
 

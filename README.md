@@ -4,10 +4,10 @@
 <p>El dengue es una enfermedad viral transmitida por mosquitos que afecta a millones de personas en todo el mundo, especialmente en las regiones tropicales y subtropicales. En América Latina, representa un problema de salud pública persistente. Este proyecto tiene como objetivo crear un tablero interactivo para visualizar los casos de dengue, permitiendo identificar tendencias y patrones que faciliten la toma de decisiones y la planificación de estrategias de salud pública. Así, se busca ofrecer una herramienta valiosa para el análisis y monitoreo de la propagación del dengue en la región.
 </p>
 
-## TTemática
+## Temática
 <p>Este trabajo analiza los casos de dengue en los países de América Latina durante un período de diez años, estudiando tendencias y patrones de incidencia de esta enfermedad.</p>
 
-## Objetivo GGeneral
+## Objetivo General
 <p>Analizar y evaluar los datos disponibles sobre los casos de dengue en los países de América Latina desde 2014 hasta 2024 utilizando Power BI, comparando la incidencia, mortalidad y regiones afectadas. El fin es identificar patrones y factores asociados que permitan mejorar las estrategias de prevención y control del dengue en la región.</p>
 
 ## Fuente de Datos

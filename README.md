@@ -14,10 +14,10 @@
 <p>La fuente de datos se obtuvo de la plataforma de Información en Salud para las Américas (PLISA), gestionada por la Organización Panamericana de la Salud (OPS). Pueden acceder a la base de datos en el siguiente enlace:
 <a href="https://www3.paho.org/data/index.php/es/temas/indicadores-dengue/dengue-nacional/9-dengue-pais-ano.html">Enlace a la Base de Datos</a></p>
 
-## Herramientas Utilizadas
+## Herramientas utilizadas
 <p>Para la construcción del dashboard se utilizaron las siguientes herramientas tecnológicas:</p>
 <div style="display: flex; align-items: center;">
-  <img src="ima" alt="https://w7.pngwing.com/pngs/677/842/png-transparent-python-hd-logo-thumbnail.png" style="width: 100px; margin-right: 20px;">
+  <img src="https://w7.pngwing.com/pngs/677/842/png-transparent-python-hd-logo-thumbnail.png" style="width: 100px; margin-right: 20px;">
   <img src="https://w7.pngwing.com/pngs/252/727/png-transparent-power-bi-business-intelligence-microsoft-analytics-microsoft-text-rectangle-logo-thumbnail.png" alt="Power BI Logo" style="width: 100px;">
 </div>
 <ul>
@@ -25,28 +25,8 @@
   <li><strong>Pandas</strong>: Una biblioteca de Python utilizada para la manipulación eficiente de los datos, facilitando su estructuración y filtrado.</li>
   <li><strong>PowerBI</strong>: Una herramienta de visualización de datos utilizada para la creación de gráficos interactivos y la generación del dashboard final, permitiendo una visualización dinámica y detallada de los datos analizados.</li>
 </ul>
-
+      
 ## Integrantes del Equipo
-<table>
-  <thead>
-    <tr>
-      <th>Nombre</th>
-      <th>Rol en el Proyecto</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Laura Génesis Barboza</td>
-      <td>Analista de Datos</td>
-    </tr>
-    <tr>
-      <td>Ariana Maldonado</td>
-      <td>Analista de Datos</td>
-    </tr>
-  </tbody>
-</table>
-
-## Sobre Nosotras
 <table>
   <thead>
     <tr>
@@ -67,12 +47,10 @@
       <td>Ariana Maldonado</td>
       <td><img src="https://media.licdn.com/dms/image/D4D03AQHT0rUxfgAYmA/profile-displayphoto-shrink_800_800/0/1717377885375?e=1723075200&v=beta&t=JLmCbIBHmvBNMbdoTTKI-_OXlnMa4RKKv43wHZkhL_Q" alt="Foto Ariana" width="100"></td>
       <td><a href="https://www.linkedin.com/in/ariana-maldonado/">LinkedIn Ariana Maldonado</a></td>
-      <td>Analista de Datos también</td>
+      <td>Analista de Datos</td>
     </tr>
   </tbody>
 </table>
-
-
 
 
 
